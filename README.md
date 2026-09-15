@@ -3,7 +3,7 @@ Welcome To LAB-WEB-09-2026 Repository ✋. Repository ini merupakan tempat kalia
 
 ## Aturan Pengumpulan
 **Note:**  
-_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071211019`_
+_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071231037`_
 - Silahkan fork repositori ini. Menu fork berada di atas kanan repository.
 - Lakukan clone terhadap hasil fork repository ini ke komputer kalian
   ```
