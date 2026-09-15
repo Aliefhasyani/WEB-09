@@ -1,5 +1,5 @@
 # LAB-WEB-09-2026
-Welcome To LAB-WEB-10-2024 Repository ✋. Repository ini merupakan tempat kalian untuk mengumpulkan semua tugas praktikum pemrograman web. Berikut panduan singkat tata cara mengumpulkan tugas di repositori ini: 
+Welcome To LAB-WEB-09-2026 Repository ✋. Repository ini merupakan tempat kalian untuk mengumpulkan semua tugas praktikum pemrograman web. Berikut panduan singkat tata cara mengumpulkan tugas di repositori ini: 
 
 ## Aturan Pengumpulan
 **Note:**  
